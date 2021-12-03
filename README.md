@@ -2,7 +2,6 @@
 
 I'm Jeremie Giffard, a french web Developper. I spend my time learning new tools to add to my toolbox and learning more about salesforce and javascript.
 
-I'm currently seeking a intership arround Nantes or st Nazaire.
 
 ## Learn More
 
