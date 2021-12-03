@@ -1,6 +1,6 @@
 # Hello, world
 
-I'm Jeremie Giffard, a french junior web Developper. I spend my time learning new tools to add to my toolbox and learning more about front and backend javascript with [The Odin Project](https://www.theodinproject.com/).
+I'm Jeremie Giffard, a french web Developper. I spend my time learning new tools to add to my toolbox and learning more about salesforce and javascript.
 
 I'm currently seeking a intership arround Nantes or st Nazaire.
 
