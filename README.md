@@ -1,6 +1,7 @@
 # Hello, world
 
-I'm Jeremie Giffard, a french web Developper. I spend my time learning new tools to add to my toolbox and learning more about salesforce and javascript.
+I'm Jeremie Giffard, a french web Developper.
+Currently working on salesforce projects (front js and a java-like backend stack)
 
 
 ## Learn More
