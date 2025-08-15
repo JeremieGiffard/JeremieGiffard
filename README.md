@@ -2,6 +2,7 @@
 
 I'm Jeremie Giffard, a french web Developper.
 Currently working as a salesforce developper (SAAS CRM with front js and a java-like backend stack). 
+
 I'm also learning Ruby for fun !
 
 
